@@ -1,4 +1,4 @@
-# Projeto-Estoque
+# Sistema-Web-Estoque
 
 Projeto de um Sistema Web de Estoque com relatórios gerados por Inteligência Artificial para a disciplina Análise e Projeto de Sistemas (APS) do curso Ciências da Computação 7º semestre do IFCE Maracanaú.
 
